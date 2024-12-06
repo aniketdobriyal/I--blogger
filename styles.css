@@ -193,6 +193,9 @@ footer {
 
 .footer-right p {
   font-size: 1rem;
+  -webkit-touch-callout: none; /* Prevents phone number detection */
+  -webkit-user-select: none;  /* Prevents text selection */
+   color: #ffffff  !important;
 }
 
 
