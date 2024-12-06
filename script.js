@@ -85,6 +85,7 @@ fetch('data.json')
           currentPage = i;
           renderResults(filteredData); // Re-render filtered data based on page change
           renderPagination(filteredData); // Re-render pagination
+          window.scrollTo(0, 0); // Scroll to the top of the page
         });
         paginationButtons.push(button);
       }
