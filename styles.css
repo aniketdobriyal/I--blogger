@@ -26,11 +26,7 @@ a {
   color: #0c0909;
 }
 
-/* Sidebar title */
-.sidebar h2 {
-  text-align: center;
-  margin-bottom: 20px;
-}
+
 
 /* List of categories */
 .category {
@@ -192,12 +188,9 @@ footer {
 }
 
 .footer-right p {
+  color: #ffffff;
   font-size: 1rem;
-  -webkit-touch-callout: none; /* Prevents phone number detection */
-  -webkit-user-select: none;  /* Prevents text selection */
-   color: #ffffff  !important;
 }
-
 
 .footer-right strong {
   color: #00c6ff;
@@ -426,6 +419,7 @@ footer {
   margin: 2rem auto;
   padding: 1rem;
 
+
 }
 
 /* Individual blog post cards */
@@ -452,6 +446,15 @@ footer {
 .result p {
   font-size: 1rem;
   line-height: 1.5;
+}
+
+.result code{
+  white-space: pre-wrap;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.result pre{
+  white-space: pre-wrap;
 }
 
 /* Blog post image */
