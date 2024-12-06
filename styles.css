@@ -196,6 +196,11 @@ footer {
   font-size: 1rem;
 }
 
+.footer-right{
+    color: #ffffff  !important; 
+}
+
+
 .footer-right strong {
   color: #00c6ff;
   font-weight: 600;
