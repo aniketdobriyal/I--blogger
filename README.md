@@ -12,7 +12,7 @@ i-Blogger is a modern educational blog website that shares insightful articles o
 
 ## Screenshots
 
-![Home Page](./Screenshot_4-4-2025_15325_aniketdobriyal.github.io.jpeg)  
+![Home Page](Screenshot_4-4-2025_15325_aniketdobriyal.github.io.jpeg)  
 
 [Live Demo](https://aniketdobriyal.github.io/I--blogger/)
 
