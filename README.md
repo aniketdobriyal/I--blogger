@@ -1,4 +1,4 @@
-```markdown
+
 # i-Blogger - Educational Tech Blogs (Home-page Only)
 
 i-Blogger is a modern educational blog website that shares insightful articles on the latest technologies, programming tutorials, and industry trends. Built for educational purposes to demonstrate front-end development skills and content presentation.
